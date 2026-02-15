@@ -71,15 +71,15 @@ function ImageCarousel({ images, alt, height = 280, interval = 3500, showNav = t
 
 // ─── Page data ────────────────────────────────────────────────────────────────
 const heroImages = [
-  '/hero.png',
-  '/towel.jpeg',
+  '/images/hero.png',
+  '/images/towel.jpeg',
   '/images/bedsheet1.png',
-    '/images/towel1.png',
-    '/images/towel2.png',
+  '/images/towel1.png',
+  '/images/towel2.png',
   '/images/bedsheet2.png',
   '/images/bedsheet3.png',
   '/images/bedsheet4.png',
- '/images/bedsheet5.png',
+  '/images/bedsheet5.png',
   '/images/bedsheet6.png',
   '/images/bedsheet7.png',
   '/images/bedsheet8.png',
@@ -87,9 +87,6 @@ const heroImages = [
   '/images/bedsheet10.png',
   '/images/bedsheet11.png',
   '/images/bedsheet12.png',
-
-
-
 ]
 
 const products = [
@@ -103,7 +100,7 @@ const products = [
     to: '/towels',
     title: 'Towels',
     description: 'Soft, absorbent towels in 400 & 600 GSM. Ideal for bath and home—quality that lasts.',
-    images: ['/towel.jpeg', '/images/towel1.png', '/images/towel2.png'],
+    images: ['/images/towel.jpeg', '/images/towel1.png', '/images/towel2.png'],
   },
 ]
 

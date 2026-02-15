@@ -35,7 +35,7 @@ export default function Navbar() {
       <div className="navbar__container">
         <Link to="/" className="navbar__brand">
           <img
-            src="logo1.jpeg"
+            src="/images/logo1.jpeg"
             alt="Vastra Vaibhav Logo"
             className="navbar__logo"
           />
