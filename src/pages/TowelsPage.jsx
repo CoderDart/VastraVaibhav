@@ -24,7 +24,7 @@ export default function TowelsPage() {
         <div className="product-section__grid">
           <div className="product-section__media">
             <ImageShowcase
-              src="towel.jpeg"
+              src="/images/towel.jpeg"
               alt="Premium towels - Vastra Vaibhav Enterprises"
             />
             <p className="image-caption caption text-muted">

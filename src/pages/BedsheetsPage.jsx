@@ -82,12 +82,15 @@ function ImageCarousel({ images, alt, height = 320, interval = 3500 }) {
 
 // ─── Page data ────────────────────────────────────────────────────────────────
 const BEDSHEET_IMAGES = [
-  '/images/bedsheet1.png',  // ← start from 1, not 8
+  '/images/hero.png',
+  '/images/towel.jpeg',
+  '/images/bedsheet1.png',
+  '/images/towel1.png',
+  '/images/towel2.png',
   '/images/bedsheet2.png',
   '/images/bedsheet3.png',
   '/images/bedsheet4.png',
   '/images/bedsheet5.png',
-  '/images/bedsheets.png',
   '/images/bedsheet6.png',
   '/images/bedsheet7.png',
   '/images/bedsheet8.png',
@@ -96,7 +99,6 @@ const BEDSHEET_IMAGES = [
   '/images/bedsheet11.png',
   '/images/bedsheet12.png',
 ]
-
 const BEDSHEET_PRICING = {
   King:  { 140: 1750, 160: 1800, 180: 2844, 200: 3000, 300: 5600, 400: 6600 },
   Queen: { 140: 1400, 160: 1650, 180: 2400 },
