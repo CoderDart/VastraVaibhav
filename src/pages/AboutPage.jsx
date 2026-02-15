@@ -1,7 +1,7 @@
 import ImageShowcase from '../components/ImageShowcase'
 
 
-const HERO_IMG = '/images/about.jpeg'
+const HERO_IMG = '/images/about.png'
 const newIMG= '/images/logo1.jpeg'
 
 export default function AboutPage() {

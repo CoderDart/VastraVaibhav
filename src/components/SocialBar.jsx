@@ -13,7 +13,7 @@ const socialLinks = [
   label: 'WhatsApp',
   value: '+919342182007'
 },
-  { href: 'https://www.instagram.com/raghavendra_rajendra?utm_source=ig_web_button_share_sheet&igsh=ODdmZWVhMTFiMw==', icon: 'fab fa-instagram', label: 'Instagram' },
+  { href: 'https://www.instagram.com/raghavendra_rajendra', icon: 'fab fa-instagram', label: 'Instagram' },
   { href: 'https://www.justdial.com/Mysore/Vastra-Vaibhav-Bombay-Dyeing-Next-To-Rajkamal-Theatre-Shivarampet/0821PX821-X821-131003191134-B9Z3_BZDET?rand3=&rand2=&rand1=', icon: 'fab fa-solid fa-j', label: 'JustDial' },
 ]
 
