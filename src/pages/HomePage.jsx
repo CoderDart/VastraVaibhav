@@ -85,7 +85,6 @@ const heroImages = [
   '/images/bedsheet8.png',
   '/images/bedsheet9.png',
   '/images/bedsheet10.png',
-  '/images/bedsheet11.png',
   '/images/bedsheet12.png',
 ]
 
