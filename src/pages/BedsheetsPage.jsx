@@ -82,13 +82,12 @@ function ImageCarousel({ images, alt, height = 320, interval = 3500 }) {
 
 // ─── Page data ────────────────────────────────────────────────────────────────
 const BEDSHEET_IMAGES = [
-  '/images/bedsheet8.png',
-  'bedsheet1.png',
-  '/bedsheet2.png',
-  '/bedsheet3.png',
-  '/bedsheet4.png',
-  '/images/bedsheets.png',
+  '/images/bedsheet1.png',  // ← start from 1, not 8
+  '/images/bedsheet2.png',
+  '/images/bedsheet3.png',
+  '/images/bedsheet4.png',
   '/images/bedsheet5.png',
+  '/images/bedsheets.png',
   '/images/bedsheet6.png',
   '/images/bedsheet7.png',
   '/images/bedsheet8.png',
@@ -96,8 +95,6 @@ const BEDSHEET_IMAGES = [
   '/images/bedsheet10.png',
   '/images/bedsheet11.png',
   '/images/bedsheet12.png',
-
-
 ]
 
 const BEDSHEET_PRICING = {
