@@ -10,6 +10,8 @@ A responsive React e-commerce site for **Vastra Vaibhav Enterprises** with a blu
 
 ## Getting started
 
+echo. >> README.md
+
 ```bash
 npm install
 npm run dev
