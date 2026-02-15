@@ -83,10 +83,7 @@ function ImageCarousel({ images, alt, height = 320, interval = 3500 }) {
 // ─── Page data ────────────────────────────────────────────────────────────────
 const BEDSHEET_IMAGES = [
   '/images/hero.png',
-  '/images/towel.jpeg',
   '/images/bedsheet1.png',
-  '/images/towel1.png',
-  '/images/towel2.png',
   '/images/bedsheet2.png',
   '/images/bedsheet3.png',
   '/images/bedsheet4.png',
