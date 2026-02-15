@@ -1,6 +1,6 @@
 import ImageShowcase from '../components/ImageShowcase'
 
-const HERO_IMG = '/images/contact.png'
+const HERO_IMG = '/images/logo1.jpeg'
 
 const DUMMY_ADDRESS = 'R 1,2,3 SHIIV MARKET, Vinoba Rd, Shivarampet, Mysuru, Karnataka 570001'
 const MAP_LINK = 'https://www.google.com/maps/search/?api=1&query=Andheri+East+Mumbai'
